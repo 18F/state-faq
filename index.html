@@ -2,6 +2,7 @@
 layout: default
 categories:
   Agile Development: Agile
+  Modular Procurement: Modular Procurement
 ---
 
 <div class="home">
@@ -16,17 +17,48 @@ categories:
         <ul class="faq-question-list">
           {% for question in site.categories[ct] %}
             <li>
-              <h3>
+              <h3 onClick="toggleBody(this.parentNode)">
                 {{ question.title }}
               </h3>
-              <span class="post-body">
+              <div class="post-body">
                 {{ question.content }}
-              </span>
+              </div>
             </li>
           {% endfor %}
         </ul>
       </li>
     {% endfor %}
   </ul>
+
+  <script type="text/javascript">
+    function toggleBody(node) {
+      var target = node.getElementsByTagName('div');
+      if(target) {
+        target = target[0];
+      }
+
+      var style = getComputedStyle(target);
+
+      if(style.height === 0 || style.height.match(/0[ a-zA-Z]?/)) {
+        target.style.height = 'auto';
+        var endHeight = getComputedStyle(target).height;
+        target.style.height = 0;
+        setTimeout(function() {
+          target.style.height = endHeight;
+          target.addEventListener('transitionend', function transitionEnd(event) {
+            if(event.propertyName == 'height') {
+              target.style.height = 'auto';
+              target.removeEventListener('transitionend', transitionEnd, false);
+            }
+          }, false);
+        }, 1);
+      } else {
+        target.style.height = style.height;
+        setTimeout(function() {
+          target.style.height = 0;
+        }, 1);
+      }
+    }
+  </script>
 
 </div>
