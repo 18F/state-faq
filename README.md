@@ -11,10 +11,6 @@ print out the URL to look at your local copy of the site.
 
 ## Adding a question
 
-Currently questions fall into a handful of existing categories: agile,
-evaluation, costs, multi-system, cots, and technical.  If your question falls
-outside of these existing categories, also see the next section.
-
 1. Create a new file in the `_posts` directory named like this:
 `YYYY-MM-DD-post-name.markdown`, where `YYYY-MM-DD` represents a
 date and `post-name` is a useful name to make the file easier to find.
@@ -36,8 +32,8 @@ date and `post-name` is a useful name to make the file easier to find.
 
   * "The question" should be the text of the question; e.g., "What is the best
   color for a horse?"
-  * The category is one of the five described above (or the new one you're
-  creating, in which case see the next section).
+  * The category is used to group questions together.  Note that categories
+  must be listed in `index.html` or else they won't be rendered!
 
 3. Add your content under the "front matter."  This can be in markdown, so go
 to town with the formatting!
