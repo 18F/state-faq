@@ -52,7 +52,7 @@ It is rarely the case with large systems that one size fits all. More typically 
 
 ### In waterfall approach [our contracting office] would approve the document, design, development, and testing. How in agile will the oversight of the vendor occur without such documentation. After release, what documentation will exist to assist with maintenance? What documents would the state rely on if expectations are not met and there is disagreement on what was previously agreed upon (yet no approved documents). What would be the impact of legal contract complications without such documentation?
 
-Common misconception with agile is that just enough documentation gets interpreted as no documentation.  That is not true, agile prescribes creating documentation that is of value; rather than blindly creating documents that are prescribed by different phases of the SDLC.
+Common misconception with agile is that _just enough_ documentation gets interpreted as _no_ documentation.  That is not true, agile prescribes creating documentation that is of value; rather than blindly creating documents that are prescribed by different phases of the SDLC.
 
 Maintenance related docs (like deployment scripts/processes) fall under this umbrella.
 
