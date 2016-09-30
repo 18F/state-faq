@@ -2,6 +2,15 @@
   position: fixed;
   display: block;
   width: 250px;
+
+  .usa-current {
+    background: #e7f4e4;
+    color: black;
+
+    &:visited {
+      color: black;
+    }
+  }
 }
 
 .usa-sidenav-list a {
