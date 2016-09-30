@@ -6,10 +6,7 @@ permalink: /agile-development/
 ---
 
 
-
-### We have heard several risks to the waterfall approach. What are the risks to agile approach?
-
-How do we deal with so many vendors? What if they use different languages and we don’t have staff familiar with those.
+### How do we deal with so many vendors? What if they use different languages and we don’t have staff familiar with those.
 
 You would ensure that the vendors:
 
