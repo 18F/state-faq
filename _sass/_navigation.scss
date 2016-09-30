@@ -1,0 +1,13 @@
+.sidenav {
+  position: fixed;
+  display: block;
+  width: 250px;
+}
+
+.usa-sidenav-list a {
+  color: black;
+
+  &:not(.usa-current):visited {
+    color: black;
+  }
+}
