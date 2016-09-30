@@ -50,19 +50,19 @@ As far as “oversight docs” like a requirements doc (used to gauge if the ven
 
 The locked in cost in waterfall is a piece of fiction, built upon further layers of fiction:
 
-The requirements are well-known
-The requirements do not change
-Users are able to articulate their requirements well and the development team can implement these precisely without any loss of fidelity.
+- The requirements are well-known
+- The requirements do not change
+- Users are able to articulate their requirements well and the development team can implement these precisely without any loss of fidelity.
 
-The return of the state’s investment should be measured in working software, not phase documents / gates of waterfall.  I.e. A fantastic requirements document will NOT be of value to the state’s constituents; only actual functionality will.   Based on that premise, waterfall will only be able to measure its return at the end of the project after most (if not all the costs) have been incurred as that is when working software is delivered.  This is a huge risk.  Agile incremental deliveries allows the state to measure returns at earlier phases (and less incurred costs) thus reducing the overall risk to the state.
+Furhter the return of the state’s investment should be measured in working software, not phase documents / gates of waterfall.  I.e. A fantastic requirements document will NOT be of value to the state’s constituents; only actual functionality will.   Based on that premise, waterfall will only be able to measure its return at the end of the project after most (if not all the costs) have been incurred as that is when working software is delivered.  This is a huge risk.  Agile incremental deliveries allows the state to measure returns at earlier phases (and less incurred costs) thus reducing the overall risk to the state.
 
 Also, you should try to steer away from the conversation of “full funding” because no system is ever fully funded.  (Think O&M!).  Instead have the conversation on how agile can help manage investment risk better because you receive early indicators on whether or not the state is getting a return on the investment or not.
 
-How do we evaluate between someone who has a COTS solution vs building from scratch with Agile?
+### How do we evaluate between someone who has a COTS solution vs building from scratch with Agile?
 
-How do all these modules really fit together?
+### How do all these modules really fit together?
 
-How do COTS products fit into this? How much modification is ok?
+### How do COTS products fit into this? How much modification is ok?
 
 ### We found a commercial/off the shelf (COTS) tool that would mostly meet our needs, but we would need to modify it. How should we do that?
 
@@ -77,20 +77,20 @@ will impact the COTS solution.
 
 If the problem domain is core to your work and is where you would like to innovate rapidly, it will not make sense to choose COTS. On the other hand, if it is auxiliary to your work and you can adopt the process implemented by the COTS product, COTS would make sense.
 
-Who is the system integrator? The state? A vendor? How does this work?
+### Who is the system integrator? The state? A vendor? How does this work?
 
-We don’t have the staff to be the systems integrator? What should we look for to get that done? 
+### We don’t have the staff to be the systems integrator? What should we look for to get that done? 
 
-We’ve had systems integrators before and they were the prime vendor responsible for the entire project? So how is this different?
+### We’ve had systems integrators before and they were the prime vendor responsible for the entire project? So how is this different?
 
-Agile seems to require different skills of my staff, how do I know what skill we need in house and how do we get that training? Or can I hire a vendor to do that?
+### Agile seems to require different skills of my staff, how do I know what skill we need in house and how do we get that training? Or can I hire a vendor to do that?
 
-Once we hire an agile vendor, how do we know they’re going to deliver what we want?
+### Once we hire an agile vendor, how do we know they’re going to deliver what we want?
 Vendors that can do agile work will respond to the way you are working. We recommend having an empowered product owner - a single person 
 
-What about governance? And IV&V? How does that work with agile development?
-Isn’t this a lot more work for my staff? Is it really worth it?
-Our mainframe is 30 years old and i can’t risk doing anything to make it stop working b/c it’s the only thing we have that works.
+### What about governance? And IV&V? How does that work with agile development?
+### Isn’t this a lot more work for my staff? Is it really worth it?
+### Our mainframe is 30 years old and i can’t risk doing anything to make it stop working b/c it’s the only thing we have that works.
 
 There are development patterns that would allow systems to gradually migrate away from a mainframe (or legacy system).  For example, the use of proxies to abstract out new code from legacy code. Mainframes are designed to be highly efficient in executing very specific functions; split those functions out one by one and replace them. Also ensuring that there are swift fallback/reversion processes in place hels
 
@@ -98,11 +98,11 @@ One can use agile prioritization techniques (like WSJF) you can identify the ord
 
 But the key to success is migrating piece by piece;  aiming to do a one big bang cut over to a new system is extremely risky.
 
-We have lots of big projects coming up, what’s the best way to get started doing an agile project?
+### We have lots of big projects coming up, what’s the best way to get started doing an agile project?
 
 ### What does a user centered design team actually do that’s different from how we’ve always done it?
 
 Would recommend we not assume that other orgs are not doing user centered design.  First understand how they are sussing out features and what pain points they are experiencing.  From there, map how user centered design can help.
 
-How do I have my users participate in feedback?
+### How do I have my users participate in feedback?
 methods.18f.gov
