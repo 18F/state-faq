@@ -7,7 +7,7 @@ permalink: /agile-development/
 
 ### We have heard several risks to the waterfall approach. What are the risks to agile approach?  
 - Incorrectly using Agile as justification for poor or no architecture/design or documentation
-- Not getting the benefits because of ‘agilefall’ - that is, incomplete or incorrect or uninformed adoption of agile techniques
+- A risk of trying to use Agile, but keeping elements of waterfall planning can lead to what we call [Agilefall](https://18f.gsa.gov/2015/12/29/is-your-project-using-agilefall/) - that is, incomplete or incorrect or uninformed adoption of agile techniques. 
 
 ### How do we deal with so many vendors? What if they use different languages and we don’t have staff familiar with those.
 
