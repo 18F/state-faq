@@ -1,7 +1,7 @@
 <aside class="sidenav">
   <ul class="usa-sidenav-list">
     <li>
-      <a {% if "/" == page.url %} class="usa-current" {% endif %} href="/">Home</a>
+      <a {% if "/" == page.url %} class="usa-current" {% endif %} href="{{"/" | prepend: site.baseurl}}">Home</a>
     </li>
     {% for my_page in site.pages %}
       {% if my_page.title %}
