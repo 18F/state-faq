@@ -7,7 +7,6 @@
 
 # Site settings
 title: States FAQ
-email: your-email@domain.com
 description: >
   Frequently asked questions from 18F's state child welfare and Medicaid partners
 baseurl: "" # the subpath of your site, e.g. /blog
