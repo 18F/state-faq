@@ -1,62 +1,32 @@
-# FAQ for 18F's State Child Welfare partners
+# FAQ for 18F's state and local partners
 
-A collection of questions frequently received from our state child welfare partners.
+We've heard a lot of questions from our state and local partners.  This is where we've tried to put them all in one place and answer them, so they and future partners can have a resource to turn to.
 
-## Running Locally
+## Running locally
 
 You will need [Jekyll](https://jekyllrb.com/) in order to run locally.  From the
 root directory, you can just run `jekyll serve` which will create a local web
 server and automatically rebuild the site as you make changes.  It will also
 print out the URL to look at your local copy of the site.
 
-## Adding a question
+## Adding a page
 
-1. Create a new file in the `_posts` directory named like this:
-`YYYY-MM-DD-post-name.markdown`, where `YYYY-MM-DD` represents a
-date and `post-name` is a useful name to make the file easier to find.
-
-  * The date is required by Jekyll, and is used for sorting purposes.  The
-  files with the most recent date in their filename will appear at the top.
-  The question/answer pairs can be rearranged within a category just be
-  renaming files.
-
-2. At the very top of this new file, add the Jekyll "front matter" to describe it:
-
-  ```
-  ---
-  layout: post
-  title: <The question>
-  category: Agile
-  ---
-  ```
-
-  * "The question" should be the text of the question; e.g., "What is the best
-  color for a horse?"
-  * The category is used to group questions together.  Note that categories
-  must be listed in `index.html` or else they won't be rendered!
-
-3. Add your content under the "front matter."  This can be in markdown, so go
-to town with the formatting!
-
-4. Commit your changes to the git repo.
-
-## Adding a Category
-
-There's only one primary step to adding a new category.  In the file
-`index.html` at the project root, you will need to add a display name
-and category name in the front matter:
+To add a new page, just create a new Markdown file in the `pages` directory.  Put this at the very top of your new markdown file:
 
 ```
 ---
-layout: default
-categories:
-  Agile Development: Agile
-  My New Category: new-category
+layout: post
+title: [Full title]
+category: Modular procurement
+permalink: /[short-title]/
 ---
 ```
 
-Then, when you create your question (as described in the previous section), in
-the front matter, set `category: new-category`.
+The full title will be displayed at the top of your page.  Go ahead and make it descriptive.  The `short-title` will be used in the URL (e.g., [https://pages.18f.gov/state-faq/short-title/](), so try to make it something short, meaningful, and no spaces!  After that, just put in your markdown!
+
+## Getting it published
+
+Ideally you will make your changes on your own branch, push that to Github, and then create a [pull request](pulls).  By default, the pull request will go to the 18f-pages branch.  Once someone reviews it (you may need to ping in Slack to get attention, or assign it to someone if you know they'll want to review), they will merge it and a short while later (usually less than a minute!) your changes will be live on the site.
 
 ## Public domain
 
