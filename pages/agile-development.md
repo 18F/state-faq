@@ -71,7 +71,7 @@ How do COTS products fit into this? How much modification is ok?
 
 Configuring a COTS product to meet your needs is not inherently a problem. 18F frequently sees modifications to the underlying code base, which we call customization, grow to the point that the system cannot handle any updates from the COTS provider, which poses security risks and a risk to the long term viability of the tool. If you can already spot the ways that the tool does not meet your needs, it’s worth asking if your process could be adapted to meet the way the software already manages it. 
 
-Maybe we can add another sentence (if Greg et al think it's accurate)
+Maybe we can add another sentence
 Alternatively, if process changes aren't feasible, state's can explore
 requiring any COTS provider to offer a convenient to use plug-in or bridge
 API that would allow independently developed custom code to meet the
