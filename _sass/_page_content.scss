@@ -7,9 +7,14 @@
   bottom: 0;
   margin-top: 3rem;
   margin-left: 250px;
-  padding: 0 4rem;
+  padding: 0 6rem 0 4rem;
+  max-width: 80rem;
 
   h1.post-title {
     font-weight: bold;
+  }
+
+  h4 {
+    padding-top: 3rem;
   }
 }
