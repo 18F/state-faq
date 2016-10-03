@@ -49,8 +49,7 @@ Within the agile process, expectations are managed by having incremental release
 
 #### Once we hire an agile vendor, how do we know they’re going to deliver what we want?
 
-Vendors that can do agile work will respond to the way you are working. We recommend having an empowered product owner - a single person
-In a well-run agile project you will get working product from your vendors every two weeks. If you don’t, then you have a problem. If you do, then you can evaluate their deliverables every two weeks
+Vendors that can do agile work will respond to the way you are working. We recommend having an empowered product owner — a single person who acts as the point of contact for the vendor, and who can serve as a zealous advocate for the success of the project. In a well-run agile project you will get working product from your vendors every two weeks. If you don’t, then you have a problem. If you do, then you can evaluate their deliverables every two weeks
 
 #### What about governance? And IV&V? How does that work with agile development?
 
