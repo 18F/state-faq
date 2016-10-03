@@ -17,7 +17,7 @@ In choosing whether the COTS system is right for your project, make sure to incl
 
 #### Modifying COTS solutions can have unexpected costs.
 
-Almost inevitably, COTS solutions require modifications in order to meet your needs. Configuring a COTS product to meet your needs is not inherently a problem, but we often see modifications to the underlying code base grow to the point where the system cannot handle any updates from the COTS provider. This poses security risks and can be a risk to the long term viability of the tool.
+Almost inevitably, COTS solutions require modifications in order to meet your needs. Configuring a COTS product to meet your needs is not inherently a problem, but we often see modifications to the underlying code base grow to the point where the system cannot handle any updates from the COTS provider. This poses security risks and can be a risk to the long-term viability of the tool.
 
 #### If you can already see the ways that the COTS tool does not meet your needs, it’s worth asking if your process could be adapted to meet the way the software already manages it.
 
