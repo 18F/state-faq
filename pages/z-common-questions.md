@@ -90,9 +90,9 @@ With every release, you would have deployed code that is tested in the field. Yo
 
 #### How do all these modules really fit together?
 
-There are two distinct levels of “fitting together”. 
-- One is at the user interface level where good and consistent application of HCD principles across all modules will provide similar user experiences to people using each module. For instance, if I have to look up a person, the presentation of that person’s information should look the same regardless of which module I am currently working in. 
-- The second “fitting together” is at the technical level, and this is a key point. _The modules need not know about each other at all._ Each module should communicate directly with the database and act directly on data. There should be no need for “integration” between modules. So the modules fit together by operating on the same data independently.
+There are two distinct levels of “fitting together.”
+* One is at the user interface level where good and consistent application of HCD principles across all modules will provide similar user experiences to people using each module. For instance, if I have to look up a person, the presentation of that person’s information should look the same regardless of which module I am currently working in. 
+* The second “fitting together” is at the technical level, and this is a key point. _The modules need not know about each other at all._ Each module should communicate directly with the database and act directly on data. There should be no need for “integration” between modules. So the modules fit together by operating on the same data independently.
 
 #### Who is the system integrator? The state? A vendor? How does this work?
 
