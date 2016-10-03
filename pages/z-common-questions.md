@@ -58,7 +58,7 @@ In a well-run agile project you will get working product from your vendors every
 
 #### What happens if something goes wrong?
 
-If you discover a bug in the software, you would hire a vendor to fix it. It doesn’t have to be the same vendor that originally produced the code. In fact, the bug could simply be added to the product backlog and the next vendor would pick it up.
+If you discover a bug in the software, you hire a vendor to fix it. It doesn’t have to be the same vendor that originally produced the code. In fact, the bug could simply be added to the product backlog and the next vendor would pick it up.
 
 If a vendor isn’t producing to the level you expect, you can simply not hire them for any subsequent work. The amount of time and effort lost is limited to that one development period, possibly as short as a few weeks, rather than the entire life of the project.
 
