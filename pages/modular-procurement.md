@@ -8,7 +8,7 @@ Modular procurement is a procurement model that breaks what would traditionally 
 
 Modular procurement does two things that make it easier to manage development: it segments risks and increases transparency. Segmenting risk means that what was a single, monolithic project is handled as smaller, discrete units. If one unit fails, that failure is isolated. Because each project is smaller, they are easier to comprehend and manage, making  problems and risks smaller so you can recognize and resolve them more easily.
 
-In practice, most traditional contracts already have multiple companies responsible for different parts of the effort, but you may not see that complexity until something goes wrong. The majority of large scale government IT projects fail, so it’s nearly inevitable that something will go wrong under a traditional procurement process.
+In practice, most traditional contracts already have multiple companies responsible for different parts of the effort, but you may not see that complexity until something goes wrong. The majority of large-scale government IT projects fail, so it’s nearly inevitable that something will go wrong under a traditional procurement process.
 
 The [Standish Group found](http://www.computerworld.com/article/2486426/healthcare-it/healthcare-gov-website--didn-t-have-a-chance-in-hell-.html) that:
 
