@@ -40,7 +40,8 @@ Agile vendor pools are groups of vendors that have been pre-qualified to work on
 During the selection process, the vendor pool is asked to provide proof of their abilities through working code, rather than extensive documentation. That process can include:
 
 * Developing a programming challenge for the vendor community (for example, the challenge for Mississippi’s agile vendor pool was to build a prototype of a website that lets parents or caseworkers search for child care providers in their vicinity).
-* Defining a short period of time (days, not weeks) to build a prototype. * Asking for a link to the working prototype as part of their proposal,as well as a link to the public source code.
+* Defining a short period of time (days, not weeks) to build a prototype.
+* Asking for a link to the working prototype as part of their proposal, as well as a link to the public source code.
 * Evaluating the proposals based on adherence to coding and design best practices, proof they followed an agile methodology, and evidence of their user research.
 * Selecting the best performing companies for your pool. We recommend starting with a smaller number of companies, perhaps 8 to 10. This is a manageable number, and with a defined on and off-ramp process, the size of the pool can be modified as the amount of work that can be managed increases.
 * Once your pool is created, you can write a “task order” (specific language varies from federal to state to local governments), or an RFP that only goes out to the vendors on the pool. Since they are all pre-qualified, you know they are all capable of doing the work, which lets you skip that stage of the evaluations for each subsequent RFP.
