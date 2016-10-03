@@ -4,7 +4,7 @@ title: Managing modular procurements
 permalink: /modular-procurement/
 ---
 
-Modular procurement is a procurement model that breaks what would traditionally be a large, monolithic contract into several shorter term, lower dollar amount contracts.
+Modular procurement is a procurement model that breaks what would traditionally be a large, monolithic contract into several shorter-term, lower-dollar-amount contracts.
 
 Modular procurement does two things that make it easier to manage development: it segments risks and increases transparency. Segmenting risk means that what was a single, monolithic project is handled as smaller, discrete units. If one unit fails, that failure is isolated. Because each project is smaller, they are easier to comprehend and manage, making  problems and risks smaller so you can recognize and resolve them more easily.
 
