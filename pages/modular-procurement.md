@@ -23,7 +23,7 @@ You do need to do some work up-front to change your procurement processes to sup
 
 Planning work for a successful six-month contract is easier than planning a successful six-year contract.
 
-At its core, modular procurement supports iterative development. This means that you are continuously improving, rather than merely hoping for perfection at some point in the future. Building a Minimal Viable Product (MVP) and learning from it ultimately results in a better product than the traditional approach of trying to build a more complex ideal project all at once.
+At its core, modular procurement supports iterative development. This means that you are continuously improving, rather than merely hoping for perfection at some point in the future. Building a Minimal Viable Product (MVP) and learning from it ultimately results in a better product than the traditional approach of trying to build a more complex, ideal project all at once.
 
 #### There are ways to make sure code is consistent and compatible while using multiple vendors.
 
