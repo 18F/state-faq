@@ -69,8 +69,8 @@ You would ensure that the vendors:
 - Build to common standards that are determined and controlled either by the state or by the entire technical project team
 - Build with agreed engineering practices across the entire program
 - Use IV&V to monitor consistency across teams
-- Use project-wide Definition of Ready and  Definition of Done
-- Organize by Feature Teams
+- Use project-wide "Definition of Ready" and "Definition of Done"
+- Organize by "Feature Teams"
 - Conduct synchronized, system-wide sprint reviews
 - Maintain standards for automated test
 - Deliver code with good test coverage
