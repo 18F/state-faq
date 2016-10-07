@@ -4,7 +4,7 @@ title: Agile development processes
 permalink: /agile-development/
 ---
 
-Agile development describes a set of principles for building software that allow collaborative, cross-functional teams to accomodate changing user needs and requirements.
+Agile development describes a set of principles for building software that allow collaborative, cross-functional teams to accommodate changing user needs and requirements.
 
 One of the great strengths of agile development is that delivery is incremental, which spreads the risk across the entire development process rather than loading all of it at the very end. When things go wrong, they’re smaller problems that can be fixed more quickly and more easily.
 
@@ -26,7 +26,7 @@ Ultimately, the state’s investment should be measured in working software, not
 
 We recommend starting with a small, less important project in order to develop your team’s understanding of agile project management, then expand. It is certainly much more difficult (and higher risk), and requires more coaching and training, to dive right into a large, high profile, critical project first.
 
-#### Incremental developmment can allow end users to start seeing benefits even before the legacy system can be fully replaced.
+#### Incremental development can allow end users to start seeing benefits even before the legacy system can be fully replaced.
 
 Old systems must be kept up until the new system is fully operational, no matter what approach is used. In a monolithic approach, the end user must wait many months or years to use the new system and see any benefit — and that’s assuming there are no problems with the rollout. In an incremental approach, the end user could start seeing benefits in weeks. Depending on the architecture of the legacy system, parts of it may even be able to be decommissioned and turned off before the full new system is in place to save money.
 

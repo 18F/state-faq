@@ -49,8 +49,7 @@ Within the agile process, expectations are managed by having incremental release
 
 #### Once we hire an agile vendor, how do we know they’re going to deliver what we want?
 
-Vendors that can do agile work will respond to the way you are working. We recommend having an empowered product owner - a single person
-In a well-run agile project you will get working product from your vendors every two weeks. If you don’t, then you have a problem. If you do, then you can evaluate their deliverables every two weeks
+Vendors that can do agile work will respond to the way you are working. We recommend having an empowered product owner — a single person who acts as the point of contact for the vendor, and who can serve as a zealous advocate for the success of the project. In a well-run agile project you will get working product from your vendors every two weeks. If you don’t, then you have a problem. If you do, then you can evaluate their deliverables every two weeks
 
 #### What about governance? And IV&V? How does that work with agile development?
 
@@ -58,7 +57,7 @@ In a well-run agile project you will get working product from your vendors every
 
 #### What happens if something goes wrong?
 
-If you discover a bug in the software, you would hire a vendor to fix it. It doesn’t have to be the same vendor that originally produced the code. In fact, the bug could simply be added to the product backlog and the next vendor would pick it up.
+If you discover a bug in the software, you hire a vendor to fix it. It doesn’t have to be the same vendor that originally produced the code. In fact, the bug could simply be added to the product backlog and the next vendor would pick it up.
 
 If a vendor isn’t producing to the level you expect, you can simply not hire them for any subsequent work. The amount of time and effort lost is limited to that one development period, possibly as short as a few weeks, rather than the entire life of the project.
 
@@ -70,8 +69,8 @@ You would ensure that the vendors:
 - Build to common standards that are determined and controlled either by the state or by the entire technical project team
 - Build with agreed engineering practices across the entire program
 - Use IV&V to monitor consistency across teams
-- Use project-wide Definition of Ready and  Definition of Done
-- Organize by Feature Teams
+- Use project-wide "Definition of Ready" and "Definition of Done"
+- Organize by "Feature Teams"
 - Conduct synchronized, system-wide sprint reviews
 - Maintain standards for automated test
 - Deliver code with good test coverage
@@ -91,9 +90,9 @@ With every release, you would have deployed code that is tested in the field. Yo
 
 #### How do all these modules really fit together?
 
-There are two distinct levels of “fitting together”. 
-- One is at the user interface level where good and consistent application of HCD principles across all modules will provide similar user experiences to people using each module. For instance, if I have to look up a person, the presentation of that person’s information should look the same regardless of which module I am currently working in. 
-- The second “fitting together” is at the technical level, and this is a key point. _The modules need not know about each other at all._ Each module should communicate directly with the database and act directly on data. There should be no need for “integration” between modules. So the modules fit together by operating on the same data independently.
+There are two distinct levels of “fitting together.”
+* One is at the user interface level where good and consistent application of HCD principles across all modules will provide similar user experiences to people using each module. For instance, if I have to look up a person, the presentation of that person’s information should look the same regardless of which module I am currently working in. 
+* The second “fitting together” is at the technical level, and this is a key point. _The modules need not know about each other at all._ Each module should communicate directly with the database and act directly on data. There should be no need for “integration” between modules. So the modules fit together by operating on the same data independently.
 
 #### Who is the system integrator? The state? A vendor? How does this work?
 
